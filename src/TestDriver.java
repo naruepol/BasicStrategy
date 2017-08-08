@@ -14,6 +14,8 @@ public class TestDriver {
 		d3 = new RubberDuck();
 		d3.quack();
 		d3.display();
+		MallardDuck d4 = new MallardDuck();
+		d4.quack();
 		
 	}
 
